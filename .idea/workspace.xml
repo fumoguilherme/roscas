@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9d03cde-1a4c-463e-9757-ee9d8040f5ec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detalhesDoGrupo.html" afterPath="$PROJECT_DIR$/detalhesDoGrupo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/roscas/config.js" afterPath="$PROJECT_DIR$/js/roscas/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/roscas/login.js" afterPath="$PROJECT_DIR$/js/roscas/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.html" afterPath="$PROJECT_DIR$/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/teste.php" afterPath="$PROJECT_DIR$/php/teste.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="contribuicoes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contribuicoes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-349">
+              <caret line="214" column="82" lean-forward="false" selection-start-line="214" selection-start-column="82" selection-end-line="214" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabelaContribuicoes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tabelaContribuicoes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3282">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <marker date="1532698984713" expanded="true" signature="8307:8329" ph="..." />
+                <marker date="1532698984713" expanded="true" signature="8307:8348" ph="..." />
+                <marker date="1532698984713" expanded="true" signature="8307:8406" ph="..." />
+                <marker date="1532698984713" expanded="true" signature="8307:8411" ph="..." />
+                <marker date="1532698984713" expanded="true" signature="8307:8421" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contribuicoesDoDia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contribuicoesDoDia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3551">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contribuicoesDoGrupo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contribuicoesDoGrupo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1532698984644" expanded="true" signature="7673:7737" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7773" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7804" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7831" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7854" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7873" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7890" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7891" ph="..." />
+                <marker date="1532698984644" expanded="true" signature="7673:7901" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/roscas/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/roscas/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabelaGrupo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tabelaGrupo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gerirGrupo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gerirGrupo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="247" column="0" lean-forward="false" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btt_add_membro</find>
+      <find>alert</find>
+      <find>Ros</find>
+      <find>BASIC TABLES</find>
+      <find>roscas</find>
+      <find>php</find>
+      <find>Novo Membro</find>
+      <find>Novo</find>
+      <find>ID/</find>
+      <find>options2</find>
+      <find>options</find>
+      <find>ID</find>
+      <find>bg-gre</find>
+      <find>nome_grupo</find>
+      <find>membro_Poup</find>
+      <find>menunovomebro</find>
+      <find>$addmembropagamentotaxaAT</find>
+      <find>membro_nome</find>
+      <find>bt_add_membro</find>
+      <find>membro_id</find>
+      <find>ip</find>
+      <find>membro_codigo</find>
+      <find>grupo</find>
+      <find>btt_add_contribuicao</find>
+      <find>membro_sexo</find>
+      <find>optgroupdistrito_end_ada</find>
+      <find>membro_FS</find>
+      <find>url_menucontribuicao</find>
+      <find>Contri</find>
+      <find>nome_tecnico</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="C:/agrolink/agrolink/www/index.html" />
+        <option value="$PROJECT_DIR$/php/dao/conexao.php" />
+        <option value="$PROJECT_DIR$/php/controller/Other/geraChaves.php" />
+        <option value="$PROJECT_DIR$/../novo/html/agrolink/cadastro.php" />
+        <option value="$PROJECT_DIR$/php/controller/Other/chaves.php" />
+        <option value="$PROJECT_DIR$/php/controller/adicionar/addutilizador.php" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/cadastroGrupo.html" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/js/roscas/login.js" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/php/controller/adicionar/addGrupo.php" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/php/controller/adicionar/addmembro.php" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/php/controller/login/login.php" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/php/controller/pesquisar/dadosTecnico.php" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/cadastroMembro.html" />
+        <option value="$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/menu.html" />
+        <option value="$PROJECT_DIR$/php/teste.php" />
+        <option value="C:/xampppp/htdocs/AdminBSBMaterialDesign/pages/forms/basic-form-elements.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/cadastroGrupo.html" />
+        <option value="$PROJECT_DIR$/php/controller/adicionar/addGrupo.php" />
+        <option value="$PROJECT_DIR$/php/controller/pesquisar/dadosMembro.php" />
+        <option value="$PROJECT_DIR$/php/controller/pesquisar/membros.php" />
+        <option value="$PROJECT_DIR$/php/controller/login/login.php" />
+        <option value="$PROJECT_DIR$/php/controller/pesquisar/dadosTecnico.php" />
+        <option value="$PROJECT_DIR$/php/controller/adicionar/addMembroGrupo.php" />
+        <option value="$PROJECT_DIR$/php/controller/pesquisar/dadosGruposAprovados.php" />
+        <option value="$PROJECT_DIR$/php/controller/adicionar/addmembro.php" />
+        <option value="$PROJECT_DIR$/cadastroMembro.html" />
+        <option value="$PROJECT_DIR$/css/themes/theme-green.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/themes/all-themes.css" />
+        <option value="$PROJECT_DIR$/php/controller/pesquisar/membrosG.php" />
+        <option value="$PROJECT_DIR$/tabelaAdicionarMembro.html" />
+        <option value="$PROJECT_DIR$/php/controller/pesquisar/dadosGrupo.php" />
+        <option value="$PROJECT_DIR$/php/controller/adicionar/addcontribuicao.php" />
+        <option value="$PROJECT_DIR$/tabelaContribuicoes.html" />
+        <option value="$PROJECT_DIR$/contribuicoes.html" />
+        <option value="$PROJECT_DIR$/gerirGrupo.html" />
+        <option value="$PROJECT_DIR$/menu.html" />
+        <option value="$PROJECT_DIR$/tabelaGrupo.html" />
+        <option value="$PROJECT_DIR$/js/roscas/login.js" />
+        <option value="$PROJECT_DIR$/js/roscas/config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pesquisar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adicionar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roscas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www\php\controller\pesquisar" />
+      <recent name="C:\xampp\htdocs\www\php\controller\adicionar" />
+      <recent name="C:\xampp\htdocs\www\php\controller\Other" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www\php\controller\pesquisar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.addcontribuicao.php">
+    <configuration default="false" name="teste.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/php/teste.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="addmembro.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/php/controller/adicionar/addmembro.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="cadastroMembro.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/cadastroMembro.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="dadosGrupo.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/php/controller/pesquisar/dadosGrupo.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="addcontribuicao.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/php/controller/adicionar/addcontribuicao.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.teste.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.addmembro.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.cadastroMembro.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.dadosGrupo.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.addcontribuicao.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.addcontribuicao.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dadosGrupo.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teste.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.addmembro.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.cadastroMembro.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9d03cde-1a4c-463e-9757-ee9d8040f5ec" name="Default" comment="" />
+      <created>1532332484315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532332484315</updated>
+      <workItem from="1532332486189" duration="9012000" />
+      <workItem from="1532341857911" duration="12131000" />
+      <workItem from="1532361378752" duration="2358000" />
+      <workItem from="1532416500466" duration="10825000" />
+      <workItem from="1532430735964" duration="8865000" />
+      <workItem from="1532506044931" duration="14697000" />
+      <workItem from="1532587954136" duration="8583000" />
+      <workItem from="1532614052947" duration="26813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93284000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/dao/pesquisa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <marker date="1517919828274" expanded="true" signature="176:226" ph="SELECT ${{$c... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/AdminBSBMaterialDesign/pages/tables/normal-tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="827" column="29" lean-forward="false" selection-start-line="827" selection-start-column="29" selection-end-line="833" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DEV/mia/php/controller/android/pedidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="97" column="2" lean-forward="false" selection-start-line="97" selection-start-column="2" selection-end-line="107" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/novo/html/agrolink/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="700" column="25" lean-forward="true" selection-start-line="700" selection-start-column="25" selection-end-line="700" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/novo/html/agrolink/php/controller/pesquisar/painel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="110" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DEV/mia/php/controller/pesquisas/lista_processos_farmacia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="144" column="142" lean-forward="false" selection-start-line="144" selection-start-column="120" selection-end-line="144" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DEV/mia/view/Farmacia/vendas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="399" column="93" lean-forward="false" selection-start-line="399" selection-start-column="24" selection-end-line="399" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/adicionar/addGrupo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="91" lean-forward="false" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+          <folding>
+            <marker date="1532588933016" expanded="true" signature="3356:3357" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/login/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/login/usuariodados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/js/roscas/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="374" column="18" lean-forward="false" selection-start-line="374" selection-start-column="18" selection-end-line="374" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/source/repos/RoscasApp/RoscasApp/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="91" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/pesquisar/dadosTecnico.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="91" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/DEV/mia/view/Farmacia/activos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13390">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/DEV/mia/view/Farmacia/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8938">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/DEV/mia/view/provedor/activos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="501" column="2" lean-forward="false" selection-start-line="501" selection-start-column="2" selection-end-line="502" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/DEV/mia/php/controller/actualizar/actualizar_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/DEV/mia/php/controller/pesquisas/lista_processos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="140" column="120" lean-forward="false" selection-start-line="140" selection-start-column="119" selection-end-line="140" selection-end-column="120" />
+          <folding>
+            <marker date="1524576863429" expanded="true" signature="6101:8696" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="6481:6774" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="6857:7157" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="7252:7570" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="7860:8696" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="7924:8632" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="7985:8567" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="10504:11532" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="10549:10830" ph="..." />
+            <marker date="1524576863429" expanded="true" signature="10964:11487" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/pesquisar/dadosGruposAprovados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="50" column="61" lean-forward="false" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+          <folding>
+            <marker date="1532597569056" expanded="true" signature="1234:1258" ph="..." />
+            <marker date="1532597569056" expanded="true" signature="1234:1314" ph="..." />
+            <marker date="1532597569056" expanded="true" signature="1234:1338" ph="..." />
+            <marker date="1532597569056" expanded="true" signature="1234:1339" ph="..." />
+            <marker date="1532597569056" expanded="true" signature="1234:1345" ph="..." />
+            <marker date="1532597569056" expanded="true" signature="1234:1471" ph="..." />
+            <marker date="1532597569056" expanded="true" signature="1234:1518" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/other/chaves.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="64" column="36" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/themes/theme-red.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="1913" column="16" lean-forward="true" selection-start-line="1913" selection-start-column="16" selection-end-line="1913" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/themes/theme-green.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/themes/all-themes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="404" column="0" lean-forward="true" selection-start-line="404" selection-start-column="0" selection-end-line="404" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/autocomplete/jquery.easy-autocomplete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="1561" column="4" lean-forward="false" selection-start-line="1561" selection-start-column="4" selection-end-line="1561" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/autocomplete/jquery.easy-autocomplete.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/adicionar/addMembroGrupo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <marker date="1532613829742" expanded="true" signature="1427:1779" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/adicionar/addmembro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/pesquisar/membrosG.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastroGrupo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="534" column="28" lean-forward="true" selection-start-line="534" selection-start-column="28" selection-end-line="534" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaAdicionarMembro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="338" column="8" lean-forward="false" selection-start-line="338" selection-start-column="8" selection-end-line="338" selection-end-column="8" />
+          <folding>
+            <marker date="1532698984710" expanded="true" signature="18517:19398" ph="..." />
+            <marker date="1532698984710" expanded="true" signature="19400:19407" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/pesquisar/dadosMembro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="91" lean-forward="false" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
+          <folding>
+            <marker date="1532588932866" expanded="true" signature="985:1243" ph="..." />
+            <marker date="1532588932866" expanded="true" signature="1048:1227" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/pesquisar/membros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/pesquisar/dadosGrupo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastroMembro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="419" column="12" lean-forward="false" selection-start-line="419" selection-start-column="12" selection-end-line="432" selection-end-column="13" />
+          <folding>
+            <marker date="1532698984641" expanded="true" signature="12283:12371" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="12283:12406" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="12283:12456" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="12283:12475" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="12283:12490" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="12283:12507" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="12283:12522" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="13595:20837" ph="..." />
+            <marker date="1532698984641" expanded="true" signature="13651:20207" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="14496:19753" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="14522:19736" ph="{&quot;type&quot;: 'POST'...}" />
+            <marker date="1532698984641" expanded="true" signature="15118:19076" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="15234:16322" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="15273:16292" ph="{&quot;title&quot;: &quot;Parabens!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="16355:16953" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="16391:16924" ph="{&quot;title&quot;: &quot;Erro!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="16988:17573" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="17024:17544" ph="{&quot;title&quot;: &quot;Erro!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="17607:18402" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="17643:18303" ph="{&quot;title&quot;: &quot;Erro!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="18406:19013" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="18442:18984" ph="{&quot;title&quot;: &quot;Erro!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="19118:19717" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="19151:19653" ph="{&quot;title&quot;: &quot;Erro!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="19757:20196" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="19780:20180" ph="{&quot;title&quot;: &quot;Erro!&quot;...}" />
+            <marker date="1532698984641" expanded="true" signature="20226:20822" ph="{&quot;type&quot;: 'POST'...}" />
+            <marker date="1532698984641" expanded="true" signature="20368:20690" ph="{...}" />
+            <marker date="1532698984641" expanded="true" signature="20723:20812" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/adicionar/addcontribuicao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/novo/html/agrolink/php/controller/pesquisar/distritos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampppp/htdocs/novo/html/agrolink/cadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="559" column="0" lean-forward="true" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contribuicoesDoGrupo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1532698984644" expanded="true" signature="7673:7737" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7773" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7804" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7831" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7854" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7873" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7890" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7891" ph="..." />
+            <marker date="1532698984644" expanded="true" signature="7673:7901" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gerirGrupo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="247" column="0" lean-forward="false" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contribuicoesDoDia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3551">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaContribuicoes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3282">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1532698984713" expanded="true" signature="8307:8329" ph="..." />
+            <marker date="1532698984713" expanded="true" signature="8307:8348" ph="..." />
+            <marker date="1532698984713" expanded="true" signature="8307:8406" ph="..." />
+            <marker date="1532698984713" expanded="true" signature="8307:8411" ph="..." />
+            <marker date="1532698984713" expanded="true" signature="8307:8421" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contribuicoes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="214" column="82" lean-forward="false" selection-start-line="214" selection-start-column="82" selection-end-line="214" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/roscas/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaGrupo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/roscas/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
